@@ -1,0 +1,17 @@
+# input and type Casting
+
+name = input("Enter your name - ")
+print(str(name))
+print(type(name))
+
+age = input ("Enter your age? = ")
+print(int(age))
+print(type(int(age)))
+
+height = input ("How tall are you? = ")
+print(float(height))
+print(type(float(height)))
+
+single = input ("Are you single? = ")
+print(bool(single))
+print(type(bool(single)))
