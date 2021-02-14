@@ -1,0 +1,16 @@
+# Printing and variable
+
+print("hello")
+print("hello world")
+print(1234)
+print(12.34)
+
+print()
+
+a = 12
+b = 11
+name = "Zwe Mhan Htun"
+text = 124
+hello = "hello world"
+print(name)
+print(hello)
