@@ -1,0 +1,19 @@
+# Comment and Data Type
+
+# name - "string"
+# age - 14,22 (integer)
+# height - 5.4, 4.5 (float)
+# status - true, False (boolean)
+
+a = 11
+b = 3.123
+name = "Zwe Mhan Htun"
+single = True
+#int = integer
+print(type(a))
+#float 2.34
+print(type(b))
+#str = string
+print(type(name))
+#bool = boolean
+print(type(single))
